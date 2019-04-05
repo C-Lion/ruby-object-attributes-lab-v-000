@@ -13,5 +13,5 @@ class Dog
   
   def breed
     @breed
-  assert_respond_to
+  end 
 end
